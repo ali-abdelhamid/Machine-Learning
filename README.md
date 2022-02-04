@@ -8,3 +8,4 @@ Collection of sklearn tools for both supervised and unsupervised learning, used 
 * Factor Analysis
 * Decision Trees
 * Random Forest Classifiers
+* Convolutional Neural Network (tensorflow on Keras library)
